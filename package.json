@@ -1,5 +1,5 @@
 {
-  "name": "webhooktest",
+  "name": "webhook-server",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -9,15 +9,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/varshajnagaraja/test-webhooks.git"
+    "url": ""
   },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/varshajnagaraja/test-webhooks/issues"
-  },
-  "homepage": "https://github.com/varshajnagaraja/test-webhooks#readme",
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.16.4",
+    "python-shell": "^1.0.7"
   }
 }
